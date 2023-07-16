@@ -32,8 +32,8 @@ There were 40 total variables. The most relevent were the following:
 avg payroll, season record, number of players on the field who are now in the Hall of Fame, number of total social media followers, region/league, day of the week, year, day/night game
 
 ### Data gathering methods
-**Python Webscraper**- used for the weather data. The associated Jupyter notebook is in this repo
-**IA Wayback Machine**- used to find salary information that is no longer publicaly accessible
+**Python Webscraper**- used for the weather data. The associated Jupyter notebook is in this repo \
+**IA Wayback Machine**- used to find salary information that is no longer publicaly accessible \
 **Excel Data from Picture**- used to take a picture of a table and quickly transcribe to numbers 
 
 ## Models
